@@ -1,0 +1,11 @@
+.
+│
+└─►docs
+      │
+      ├─► index.html
+      │
+      └─► post_name
+                  │
+                  ├─► home.html
+                  │
+                  └─►
