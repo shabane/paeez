@@ -1,0 +1,13 @@
+- title -> tilte of the site
+- post -> one post which is in its directory
+- posts -> all poststes as summery to putt on the index
+
+- post_title
+- size
+- uploader
+- post_alt
+- post_img
+- post_author
+- post_size
+- post_image_count
+- description
